@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646540430276",
+    "project_id": "barrierfree-97c04",
+    "storage_bucket": "barrierfree-97c04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646540430276:android:40e619250daa5493317291",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646540430276-qauqr9qfn7jeuulko6ef2j5al4255bmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Xi4IjLUnhSkTckcmIoFHYHC6dJSNZbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646540430276-qauqr9qfn7jeuulko6ef2j5al4255bmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
